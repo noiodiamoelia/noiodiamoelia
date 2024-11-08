@@ -1,0 +1,42 @@
+.matrimonioassicurato{
+    background-color: hotpink;
+    border-style: solid;
+    border-color: black;
+    border-width: 8px;
+    border-radius: 30px;
+    
+    text-align: center;
+
+    color: black;
+    
+    font-size: 30px;
+
+    padding: 8px;
+}
+
+.simoneegreta{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.foglio{
+    border-style: solid;
+    border-color: blueviolet;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+
+}
+
+.contenuto{
+    text-align: center;
+    color: mediumvioletred;
+}
+
+.immagine{
+    border-radius: 30px;
+    border-style: dotted;
+    border-radius: 10px;
+    border-color: rgb(230, 0, 255);
+}
